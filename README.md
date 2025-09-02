@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 01-09-2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
@@ -36,9 +36,53 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+```
+<!doctype html>
+<html>
+<head>
+<title>My Web Server</title>
+</head>
+<body>
+<h1> TCP/IP Protocol</h1>
 
+<table border="1" align="left" cellpadding="10" cellspacing="0" bgcolor="lightpink">
+  <tr>
+    <th>S.no</th>
+    <th>Layer</th>
+    <th>Protocols</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td><b>Application Layer</b></td>
+    <td>HTTP, HTTPS, FTP, SMTP, POP3, IMAP, DNS, Telnet, SSH</td>
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td><b>Transport Layer</b></td>
+    <td>TCP , UDP</td>
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td><b>Network Layer </b></td>
+    <td>IP (IPv4, IPv6), ICMP, IGMP, ARP, RARP</td>
+  </tr>
+
+  <tr>
+    <td>4.</td>
+    <td><b>Link Layer </b></td>
+    <td>Ethernet</td>
+  </tr>
+</table>
+
+</body>
+</html>
+```
 
 ## OUTPUT:
+<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/440d375d-5a1e-44e3-8bb0-a76204448cae" />
 
 
 ## RESULT:
