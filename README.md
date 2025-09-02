@@ -82,6 +82,9 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ```
 
 ## OUTPUT:
+
+<img width="1219" height="1093" alt="image" src="https://github.com/user-attachments/assets/3c982303-f554-4a95-b2cc-6b686e07118f" />
+
 <img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/440d375d-5a1e-44e3-8bb0-a76204448cae" />
 
 
